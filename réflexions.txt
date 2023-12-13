@@ -1,0 +1,14 @@
+1. Importer le dictionnaire à partir de Moodle
+
+2. Créer un arbre pour chaque catégorie
+
+3. Réfléchir à l'algorithme de recherche (dichotomique)
+- Utilisateur: Saisir le début d'un mot (adverbe, nom, adj, verbe)
+- Initialiser la recherche récursive dans les arbres pour trouver le mot correspondant (return sinon)
+- A partir de ce mot trouvé de l'arbre auquel il appartient, créer une phrase avec des mots aléatoires d'autres arbres
+- Print la phrase entière
+
+4. Algo de génération d'un mot aléatoire dans un arbre spécifique (sans input)
+- Choisir un arbre (parmi les 4)
+
+5. Fonction pour implémenter un mot dans un arbre
